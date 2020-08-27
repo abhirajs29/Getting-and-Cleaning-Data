@@ -1,4 +1,4 @@
-# Getting and Cleaning Data Course Project (JHU) Coursera
+# Getting and Cleaning Data Course
  
 Description
 -----------
